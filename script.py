@@ -5,3 +5,5 @@ for i in range(10):
 class Bread:
     def __init__(self):
         self.proper = None
+
+print("Some changes in release 1")
